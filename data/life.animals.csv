@@ -1,0 +1,2 @@
+_id,name,averageAge,weight,habitat[0],habitat[1],isPet
+673c8693b0133d8b9318dd85,Frog,5,0.3,land,aquatic,false

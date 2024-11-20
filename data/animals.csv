@@ -1,0 +1,7 @@
+name,averageAge,weight,habitat[0],habitat[1],isPet
+Cat,15,4.0,land,,true
+Dog,12,15.5,land,,true
+Elephant,48,4000.0,land,,false
+Whale,70,250000.0,aquatic,,false
+Crocodile,60,500,land,aquatic,false
+Frog,5,0.3,land,aquatic,false
